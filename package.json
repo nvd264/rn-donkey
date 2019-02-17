@@ -1,0 +1,19 @@
+{
+  "name": "rn-donkey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvd264/rn-donkey.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nvd264/rn-donkey/issues"
+  },
+  "homepage": "https://github.com/nvd264/rn-donkey#readme"
+}
